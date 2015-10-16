@@ -1,0 +1,17 @@
+{
+  "name": "Cilindros1",
+  "description": "Gestion de Cilindros",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Adrian A. Paesani"
+  ],
+  "license": "MIT",
+  "homepage": "cilindros.app",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "bootstrap-material-design": "~0.3.0"
+  }
+}
